@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.beer-container{
+
+}
+.beers-container{
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+}
